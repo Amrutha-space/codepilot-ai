@@ -120,7 +120,7 @@ st.markdown("""
 
 st.markdown("""
 <div class="hero">
-    <h1>🚀 CodePilot AI</h1>
+    <h1> CodePilot AI</h1>
     <p>
         Your intelligent coding partner.
         Explain, debug, generate, and improve code
@@ -267,7 +267,7 @@ with left:
     )
 
     submit = st.button(
-        "✨ Ask Gemma",
+        " Ask Gemma",
         type="primary",
         use_container_width=True
     )
